@@ -1,5 +1,5 @@
 .Casilla{
-    width: 30%;
+    width: 33.33333333333333%;
     
     text-align: center;
     border: 5px black solid;
@@ -22,3 +22,11 @@
 }
 
 
+
+.Ocupada:hover{
+    background-color: #ff5733;
+}
+
+.Desocupada:hover{
+    background-color: #9cff33;
+}
